@@ -30,3 +30,13 @@ INPUTS
 .example-full-width {
   width: 100%;
 }
+
+/*
+card
+*/
+.example-card{
+  width: 30%;
+}
+.md-images{
+  background: #00bcd4;
+}
