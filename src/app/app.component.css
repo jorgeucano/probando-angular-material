@@ -1,0 +1,32 @@
+body{
+    margin:10%;
+}
+
+/*
+CHECKBOX
+*/
+.example-h2 {
+  margin: 10px;
+}
+
+.example-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 60px;
+}
+
+.example-margin {
+  margin: 0 10px;
+}
+
+/*
+INPUTS
+*/
+.example-form {
+  width: 500px;
+}
+
+.example-full-width {
+  width: 100%;
+}
